@@ -1,6 +1,6 @@
-# onepocket-task
+## onepocket-task
 
-# Task description
+## Task description
 
 <!--
 Task 1: Basic Node.js Server
@@ -13,3 +13,11 @@ Task 3: Asynchronous File Handling
 Create a Node.js script that reads a text file named "data.txt" and counts the number of words in it. The script should print the total word count to the console.
 
 -->
+
+## Files of tasks
+
+```
+├── task_1_server.js
+├── task_2_sum.js
+└── task_3_count-words.js
+```
